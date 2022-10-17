@@ -33,3 +33,4 @@ __all the selected seats and payable amount information is strored in localstora
 
 
 ## Deployed Link
+[Book My Ticket](https://paddu-movie-booking.netlify.app/)
